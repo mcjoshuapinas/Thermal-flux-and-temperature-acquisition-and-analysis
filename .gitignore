@@ -1,0 +1,13 @@
+# Python 
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data Files (Keep your repo clean)
+*.csv
+*.xlsx
+*.log
+
+# Windows system files
+Thumbs.db
+desktop.ini
