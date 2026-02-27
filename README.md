@@ -22,5 +22,5 @@ Code snippet
   year         = 2026,
   publisher    = {GitHub},
   doi          = {https://doi.org/10.5281/zenodo.18803256},
-  url          = {[https://github.com/mcjoshuapinas/Thermal-flux-and-temperature-adquisition-and-analysis]}
+  url          = {[https://github.com/mcjoshuapinas/Thermal-flux-and-temperature-acquisition-and-analysis]}
 }
