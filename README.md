@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Citation
 If you use this software in your research or industrial laboratory, please cite it as follows:
-[![DOI](https://zenodo.org/badge/1164798915.svg)](https://doi.org/10.5281/zenodo.18803256)
+DOI:(https://doi.org/10.5281/zenodo.18803256)
 Code snippet
 @software{pinas_tf_t_daa_2026,
   author       = {Piñas, Joshua},
