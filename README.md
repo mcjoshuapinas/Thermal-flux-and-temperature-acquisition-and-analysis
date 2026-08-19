@@ -20,7 +20,7 @@ Code snippet
   author       = {Piñas, Joshua},
   title        = {Thermal flux and temperature acquisition and analysis},
   year         = 2026,
-  publisher    = {GitHub},
+  publisher    = {Zenodo},
   doi          = {https://doi.org/10.5281/zenodo.18803256},
   url          = {[https://github.com/mcjoshuapinas/Thermal-flux-and-temperature-acquisition-and-analysis]}
 }
